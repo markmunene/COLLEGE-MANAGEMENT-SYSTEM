@@ -1,0 +1,2 @@
+# COLLEGE-MANAGEMENT-SYSTEM
+Java and mysql
